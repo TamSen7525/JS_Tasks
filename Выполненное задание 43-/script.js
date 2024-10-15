@@ -116,3 +116,32 @@ alert(String(num491).length);
 let num4921 = 12345;
 let num4922 = 135;
 alert(String(num4921).length+String(num4922).length);
+
+// #50.1
+// alert(true + 3);
+// Answer: 4
+
+// #50.2
+// alert(true + true);
+// Answer: 2
+
+// #50.3
+// alert(true - true);
+// Answer: 0
+
+// #50.4
+// alert(true + false);
+// Answer: 1
+
+// #50.5
+// alert('1' + true);
+// Answer: 1true
+
+// #50.6
+// alert( String(true) + 1 );
+// Answer: true1
+
+// #50.7
+// alert( String(true) + Number(true) );
+// Answer:true1
+
