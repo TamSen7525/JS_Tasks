@@ -254,3 +254,18 @@ alert(0.3 - 0.1);
 let name = prompt('Ваше имя?');
 let age = prompt('Ваш возраст?');
 alert('Ваше имя и возраст: ' + name + age);
+
+//#63.1
+let num6311 = prompt('Введите первое число');
+let num6312 = prompt('Введите второе число');
+alert(Number(num6311) + Number(num6312));
+
+//#63.2
+let num6321 = prompt('Введите сторону квадрата');
+alert(Number(num6321*num6321));
+
+//#63.3
+let num6331 = prompt('Введите сторону А');
+let num6332 = prompt('Введите сторону Б');
+alert(Number(num6331*2) + Number(num6332*2));
+
